@@ -1,0 +1,31 @@
+h1{
+  color: red;
+  text-align: center;
+}
+
+h2{
+  color: blue;
+  text-align: center;
+}
+
+p{
+  color: orange;
+  text-align: justify;
+
+}
+
+body{
+  background-color: purple;
+  border-color: pink;
+  border-width: thick;
+}
+
+ul{
+  color: yellow;
+
+}
+
+ol{
+  color: green;
+
+}

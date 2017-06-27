@@ -1,0 +1,32 @@
+h1{
+  color: red;
+  text-align: center;
+}
+
+h2{
+  color: blue;
+  text-align: center;
+}
+
+p{
+  color: orange;
+  text-align: justify;
+
+}
+
+body{
+  background-color: purple;
+  border-color: pink;
+  border-width: thick;
+}
+
+ul{
+  color: yellow;
+  font-size: 36px;
+  font-family:cursive;
+  line-height: 40px;
+}
+
+ol{
+  color: green;
+}
